@@ -1,0 +1,11 @@
+{
+    "name": "adl/moodle-theme_castle",
+    "type": "moodle-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "castle"
+    }
+}
+
